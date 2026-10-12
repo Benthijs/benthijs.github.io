@@ -1,1 +1,2 @@
-theme: jekyll-theme-architect
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark" # or "default", "air", "mint", "dirt"
