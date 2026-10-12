@@ -4,7 +4,7 @@
 
 ## Summary
 
-### Hey! I'm a recent (October 2026) graduate student in pure mathematics (Track: Algebra and Algebraic Geometry). Recently, my fixations moved towards numerical analysis, scientific computing, and honing my social skills with customer-facing retail experience. The prior having started with an obsession with project Euler problems, the latter because I wanted to get a taste of the world outside of academia and love sports and being of service.
+### Hey! I'm a recent (October 2026) graduate student in pure mathematics (Track: Algebra and Algebraic Geometry). Recently, my interests moved towards numerical analysis, scientific computing, and honing my social skills with customer-facing retail experience. The prior having started with an obsession with project Euler problems, the latter because I wanted to get a taste of the world outside of academia and love sports and being of service.
 
 ## WORK EXPERIENCE
 
