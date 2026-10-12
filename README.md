@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Ben Mason"
+author_profile: true
+---
+
 # Ben Mason
 
 - info@benthijs.com
