@@ -1,3 +1,7 @@
+'''
+layout: single
+'''
+
 - info@benthijs.com
 - The Randstad, Netherlands & Lancashire, England
 - [Portfolio](https://github.com/benthijs)
