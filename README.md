@@ -35,7 +35,7 @@
 - Thesis: ["Sheaf Cohomology and the de Rham Theorem"](link bsc), grade: 9,0; note: Project went smoothly, appreciated for exceptional rigour. Supervisor: Prof. Dr. Marius Crainic.
 - Completed two honours projects, [Poincaré-Bendixson theorem](link here)  (Supervised by Prof. Dr. Iouri Kuznetsov) and [Zorn's Lemma](link here) (Supervised by Prof. Dr. Gunther Cornelissen and co-authored with Charlie Tang)
 
-## CERTIFICATIONS, SKILLS & INTERESTS
+## SKILLS & INTERESTS
 
 - Skills: Reading and writing mathematics, LaTeX, C++ (learning), tutoring.
 - Interests: Running (in the woods), lifting (leg day is my favorite), gaming (KCDII, RDR2), tutoring, Project Euler.
