@@ -1,6 +1,7 @@
 ---
 layout: single
-permalink: /
+title: "Ben Mason"
+author_profile: false
 ---
 
 - info@benthijs.com
