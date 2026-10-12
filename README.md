@@ -24,7 +24,7 @@
 #### October, 2026 | M.Sc. Mathematical Sciences | Utrecht, Netherlands
 
 - GPA: 3.7/4.0 (or 7,93 in the Dutch system).
-- Thesis focus: [Computing Exodromy Representations](cv-pdfs/thesis.pdf), grade: 6,8; note: Project suffered from an over-ambitious scope that leaned too heavily into active research; served as a valuable lesson in project scoping and results-driven execution.
+- Thesis focus: [Computing Exodromy Representations](cv-pdfs/thesis.pdf), grade: 6,8; note: Project suffered from an over-ambition the scope leaning too heavily into active research; served as a valuable lesson in both project scoping and delivering results.
 - Supervisors: Dr. Remy van Dobben De Bruyn, Prof. Dr. Carel Faber, Dr. Gijs Heuts.
 
 #### June, 2023 | B.Sc. Wiskunde | Utrecht, Netherlands
