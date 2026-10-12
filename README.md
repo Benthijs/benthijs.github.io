@@ -1,9 +1,3 @@
----
-layout: single
-title: "Ben Mason"
-author_profile: false
----
-
 - info@benthijs.com
 - The Randstad, Netherlands & Lancashire, England
 - [Portfolio](https://github.com/benthijs)
