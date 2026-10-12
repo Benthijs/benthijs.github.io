@@ -1,14 +1,17 @@
-title: " "
+title: "Ben Mason"
 description: "Pure Mathematics M.Sc. | Scientific Computing & Numerical Analysis"
 
-# URL configuration (prevents 404 on project pages)
+# Set baseurl to your exact repo name (include leading slash, NO trailing slash)
+baseurl: "/resume" 
 url: "https://benthijs.github.io"
-baseurl: "/resume" # MUST match your exact repository name (e.g. /resume or /cv)
 
-# Theme configuration
+# Minimal Mistakes plugin dependencies
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
+
+# Force relative URLs for CSS assets
+relative_url: true
