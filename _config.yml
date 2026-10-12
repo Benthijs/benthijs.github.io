@@ -1,8 +1,15 @@
 title: Ben Mason
 description: Pure Mathematics M.Sc. | Scientific Computing & Numerical Analysis
 
+# Plugins required for Minimal Mistakes
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
+# Theme configuration
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: dark # Options: dark, air, mint, sunrise, default
+
+# Minimal Mistakes Layout Settings
+include: ["_pages"]
+permalink: /:categories/:title/
