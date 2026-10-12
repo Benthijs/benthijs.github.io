@@ -32,7 +32,7 @@
 - GPA 4.0/4.0 (or 8,82 in the Dutch system), cum laude distinction.
 - Thesis: [Sheaf Cohomology and the de Rham Theorem](cv-pdfs/Mason_cohomology.pdf).
 - Supervisor: Prof. Dr. Marius Crainic.
-- Completed two honours projects, [Poincaré-Bendixson theorem](cv-pdfs/Poincare_Bendixson.pdf)  (Supervised by Prof. Dr. Iouri Kuznetsov, course grade: 10/10) and [Zorn's Lemma](cv-pdfs/Zorn_s_lemma.pdf) (Supervised by Prof. Dr. Gunther Cornelissen and co-authored with Charlie Tang, course grade: 8.5/10)
+- Completed two honours projects, [Poincaré-Bendixson theorem](cv-pdfs/Poincare_Bendixson.pdf)  (Supervised by Prof. Dr. Iouri Kuznetsov, course grade: 10/10) and [Zorn's Lemma](cv-pdfs/Zorn_s_Lemma.pdf) (Supervised by Prof. Dr. Gunther Cornelissen and co-authored with Charlie Tang, course grade: 8.5/10)
 
 ## SKILLS & INTERESTS
 
