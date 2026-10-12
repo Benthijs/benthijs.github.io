@@ -1,17 +1,9 @@
 title: "Ben Mason"
 description: "Pure Mathematics M.Sc. | Scientific Computing & Numerical Analysis"
 
-# Set baseurl to your exact repo name (include leading slash, NO trailing slash)
-baseurl: "/resume" 
-url: "https://benthijs.github.io"
-
-# Minimal Mistakes plugin dependencies
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
-
-# Force relative URLs for CSS assets
-relative_url: true
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
