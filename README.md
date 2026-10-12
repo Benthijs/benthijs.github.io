@@ -37,4 +37,4 @@
 ## SKILLS & INTERESTS
 
 - Skills: Reading and writing mathematics, LaTeX, C++ (learning), tutoring.
-- Interests: Running (in the woods), lifting (leg day is my favorite), gaming (KCDII, RDR2), tutoring, Project Euler, coding (back in high school I built a [recommender system]{https://github.com/Benthijs/Java/tree/master/Recommender-System} and wrote [code]{https://github.com/Benthijs/Java/tree/master/reading-group} for determining the best silent reading rooms (using python to obtain the timetables and output as schedules.txt).
+- Interests: Running (in the woods), lifting (leg day is my favorite), gaming (KCDII, RDR2), tutoring, Project Euler, coding (back in high school I built a [recommender system](https://github.com/Benthijs/Java/tree/master/Recommender-System) and wrote [code](https://github.com/Benthijs/Java/tree/master/reading-group) for determining the best silent reading rooms (using python to obtain the timetables and output as schedules.txt).
