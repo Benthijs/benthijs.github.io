@@ -4,8 +4,6 @@ title: "Ben Mason"
 author_profile: true
 ---
 
-# Ben Mason
-
 - info@benthijs.com
 - The Randstad, Netherlands & Lancashire, England
 - [Portfolio](https://github.com/benthijs)
