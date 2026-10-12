@@ -1,6 +1,11 @@
-title: "Ben Mason"
-description: Pure Mathematics M.Sc. | Scientific Computing & Numerical Analysis
+title: " "
+description: "Pure Mathematics M.Sc. | Scientific Computing & Numerical Analysis"
 
+# URL configuration (prevents 404 on project pages)
+url: "https://benthijs.github.io"
+baseurl: "/resume" # MUST match your exact repository name (e.g. /resume or /cv)
+
+# Theme configuration
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
