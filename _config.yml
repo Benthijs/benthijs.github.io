@@ -1,7 +1,8 @@
 title: Ben Mason
 description: Pure Mathematics M.Sc. | Scientific Computing & Numerical Analysis
+
 plugins:
   - jekyll-remote-theme
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark # Options: dark, air, mint, sunrise, default
+minimal_mistakes_skin: dark
