@@ -19,4 +19,4 @@ Technical Focus & Skills
 
 * **Computing & Mathematics:** Master's in Mathematics from Utrecht University. Currently focused on numerical analysis, C++ and algorithmic problem-solving.
 
-* **Fitness & Outdoors**: In my free time, I like going to the gym and running. During recovery, I enjoy gaming, reading and hiking. I was also part of Boy Scout troop 1434 while living in Maryland, USA.
+* **Fitness & Outdoors**: In my free time, I like going to the gym and running. I enjoy gaming, reading and hiking. I was also part of Boy Scout troop 1434 while living in Maryland, USA.
